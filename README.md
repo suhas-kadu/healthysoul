@@ -19,7 +19,7 @@ The main challenge was integration of ML model and app due to compatibility issu
 
 ## Accomplishments that I'm proud of
 
-I'm proud that I have successfully designed an app which can help users going through mental health issues.
+I'm proud that I have successfully designed an app which can help users going through mental health issues. The app is deployed using Firebase App Distribution.
 
 ## What I learned
 
@@ -31,6 +31,19 @@ The first and the foremost thing is integration of ML model. Adding podcasts to 
 
 ## Code for ML Model
 https://www.kaggle.com/suhaskadu1/depression-model 
+
+## Results
+
+<img src="assets/screenshots/ss1.png" width="250">  &emsp;  <img src="assets/screenshots/ss2.png" width="250">  &emsp;  <img src="assets/screenshots/ss18.png" width="250">
+
+<img src="assets/screenshots/ss19.png" width="250">  &emsp;  <img src="assets/screenshots/ss3.png" width="250">  &emsp;  <img src="assets/screenshots/ss4.png" width="250">
+
+
+<img src="assets/screenshots/ss13.png" width="250">  &emsp;  <img src="assets/screenshots/ss14.png" width="250">  &emsp;  <img src="assets/screenshots/ss15.png" width="250">
+
+
+<img src="assets/screenshots/ss16.png" width="250">  &emsp;  <img src="assets/screenshots/ss17.png" width="250">
+
 
 
 
