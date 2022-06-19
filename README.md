@@ -1,4 +1,5 @@
-# HealthySoul
+<h1 align="center">HealthSoul</h1>
+<h3 align="center"><i>"Be gentle with yourself"</i></h3>
 
 ## Inspiration
 
